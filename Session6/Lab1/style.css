@@ -1,0 +1,25 @@
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  background-color: hsl(217, 80%, 60%);
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin: 25px 0;
+}
+
+button:hover {
+  background-color: hsl(217, 80%, 70%);
+}
+
+#Lenght {
+  font-size: 2rem;
+  width: 150px;
+  text-align: center;
+}
